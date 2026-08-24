@@ -285,5 +285,14 @@
       "No commits were made in the 'sleep-line' branch."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1787569051.281794,
+    "completed_at": 1787569054.406048,
+    "comments": [
+      "No commits were made in the 'sleep-line' branch."
+    ],
+    "status": "Incomplete"
   }
 ]
