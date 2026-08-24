@@ -393,5 +393,14 @@
       "You did not branch from the commit with tag v1.0!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787573518.458163,
+    "completed_at": 1787573521.999889,
+    "comments": [
+      "Contents of 'features.md' is not valid! Try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
